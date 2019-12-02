@@ -20,7 +20,7 @@ import numpy as np
 
 
 data=pd.read_csv("C:\\Users\\Gowri Garu\\Desktop\\All_datasets\\Datasets_new\\insurance\\insurance.csv")
-
+data1=data
 
 # In[6]:
 
